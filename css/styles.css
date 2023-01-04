@@ -1,0 +1,37 @@
+body{
+    background-color: white;
+}
+hr{
+    border-style: dotted none none ;
+    border-color: gray;
+    border-width: 5px;
+    width: 30%;
+
+}
+
+img{
+    height: 200px;
+    width: 422px;
+    
+}
+h2{
+    color: red;
+
+}
+.random:hover{
+    background-color:gold;
+
+    text-align: center;
+}
+.gomycode:hover{
+    text-align: center;
+    background-color: gold;
+}
+h1:hover {
+    text-align: center;
+    color: blue;
+}
+
+.circular{
+    border-radius: 10%;
+}
